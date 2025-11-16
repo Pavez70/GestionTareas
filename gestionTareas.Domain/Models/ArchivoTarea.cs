@@ -13,7 +13,7 @@ namespace gestionTareas.Domain.Models
         public string NombreArchivo { get; set; } = string.Empty;
         public DateTime FechaSubida { get; set; }
 
-        // FK Tarea
+      
         public int TareaId { get; set; }
         public Tarea Tarea { get; set; }
     }
