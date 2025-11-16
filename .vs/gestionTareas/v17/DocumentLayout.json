@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0E7F30-1DB9-4B56-8478-B8C20D8E03C0}|gestionTareas\\gestionTareas.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B0E7F30-1DB9-4B56-8478-B8C20D8E03C0}|gestionTareas\\gestionTareas.csproj|solutionrelative:gestiontareas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21948C89-785D-45DC-A85F-D4F34ECCC223}|gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.infrastructure\\migrations\\20251116032842_gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21948C89-785D-45DC-A85F-D4F34ECCC223}|gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj|solutionrelative:gestiontareas.infrastructure\\migrations\\20251116032842_gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21948C89-785D-45DC-A85F-D4F34ECCC223}|gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21948C89-785D-45DC-A85F-D4F34ECCC223}|gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj|solutionrelative:gestiontareas.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21948C89-785D-45DC-A85F-D4F34ECCC223}|gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21948C89-785D-45DC-A85F-D4F34ECCC223}|gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj|solutionrelative:gestiontareas.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21948C89-785D-45DC-A85F-D4F34ECCC223}|gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21948C89-785D-45DC-A85F-D4F34ECCC223}|gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj|solutionrelative:gestiontareas.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032606_GestorTareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gestionTareas.Infrastructure\\Migrations\\20251116032606_GestorTareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032428_GestorTareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gestionTareas.Infrastructure\\Migrations\\20251116032428_GestorTareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032150_GestorTareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gestionTareas.Infrastructure\\Migrations\\20251116032150_GestorTareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032023_GestorTareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gestionTareas.Infrastructure\\Migrations\\20251116032023_GestorTareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116031836_FixCascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gestionTareas.Infrastructure\\Migrations\\20251116031836_FixCascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.domain\\gestiontareas.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|solutionrelative:gestiontareas.domain\\gestiontareas.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116031344_GestorTareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gestionTareas.Infrastructure\\Migrations\\20251116031344_GestorTareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0E7F30-1DB9-4B56-8478-B8C20D8E03C0}|gestionTareas\\gestionTareas.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas\\gestiontareas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B0E7F30-1DB9-4B56-8478-B8C20D8E03C0}|gestionTareas\\gestionTareas.csproj|solutionrelative:gestiontareas\\gestiontareas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21948C89-785D-45DC-A85F-D4F34ECCC223}|gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.infrastructure\\gestiontareas.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21948C89-785D-45DC-A85F-D4F34ECCC223}|gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj|solutionrelative:gestiontareas.infrastructure\\gestiontareas.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0E7F30-1DB9-4B56-8478-B8C20D8E03C0}|gestionTareas\\gestionTareas.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas\\gestiontareas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5B0E7F30-1DB9-4B56-8478-B8C20D8E03C0}|gestionTareas\\gestionTareas.csproj|solutionrelative:gestiontareas\\gestiontareas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C501C1A-36B4-42C0-82B9-C10584D987E2}|gestionTareas.Application\\gestionTareas.Application.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.application\\gestiontareas.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C501C1A-36B4-42C0-82B9-C10584D987E2}|gestionTareas.Application\\gestionTareas.Application.csproj|solutionrelative:gestiontareas.application\\gestiontareas.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0E7F30-1DB9-4B56-8478-B8C20D8E03C0}|gestionTareas\\gestionTareas.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0E7F30-1DB9-4B56-8478-B8C20D8E03C0}|gestionTareas\\gestionTareas.csproj|solutionrelative:gestiontareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|solutionrelative:gestiontareas.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.domain\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|solutionrelative:gestiontareas.domain\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.domain\\models\\estadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|solutionrelative:gestiontareas.domain\\models\\estadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.domain\\models\\prioridadtarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|solutionrelative:gestiontareas.domain\\models\\prioridadtarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.domain\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|solutionrelative:gestiontareas.domain\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.domain\\models\\comentariotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|solutionrelative:gestiontareas.domain\\models\\comentariotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.domain\\models\\archivotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|solutionrelative:gestiontareas.domain\\models\\archivotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|c:\\users\\pablo\\onedrive\\escritorio\\gestor de tareas\\gestiontareas\\gestiontareas.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C76787-E40B-45A5-907E-1F48EE5F9FD7}|gestionTareas.Domain\\gestionTareas.Domain.csproj|solutionrelative:gestiontareas.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 185,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:47:09.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251116032842_GestorTareas.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032842_GestorTareas.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\Migrations\\20251116032842_GestorTareas.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032842_GestorTareas.cs",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\Migrations\\20251116032842_GestorTareas.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:28:42.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251116032606_GestorTareas.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032606_GestorTareas.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\Migrations\\20251116032606_GestorTareas.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032606_GestorTareas.cs",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\Migrations\\20251116032606_GestorTareas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:26:06.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251116032428_GestorTareas.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032428_GestorTareas.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\Migrations\\20251116032428_GestorTareas.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032428_GestorTareas.cs",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\Migrations\\20251116032428_GestorTareas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:24:28.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:38:13.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas\\appsettings.json",
+              "RelativeDocumentMoniker": "gestionTareas\\appsettings.json",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas\\appsettings.json",
+              "RelativeToolTip": "gestionTareas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T18:42:52.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251116032150_GestorTareas.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032150_GestorTareas.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\Migrations\\20251116032150_GestorTareas.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032150_GestorTareas.cs",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\Migrations\\20251116032150_GestorTareas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:21:50.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:17:21.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251116032023_GestorTareas.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032023_GestorTareas.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\Migrations\\20251116032023_GestorTareas.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116032023_GestorTareas.cs",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\Migrations\\20251116032023_GestorTareas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:20:23.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251116031836_FixCascade.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116031836_FixCascade.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\Migrations\\20251116031836_FixCascade.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116031836_FixCascade.cs",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\Migrations\\20251116031836_FixCascade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:18:36.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251116031344_GestorTareas.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116031344_GestorTareas.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\Migrations\\20251116031344_GestorTareas.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\Migrations\\20251116031344_GestorTareas.cs",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\Migrations\\20251116031344_GestorTareas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:13:44.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "gestionTareas.csproj",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas\\gestionTareas.csproj",
+              "RelativeDocumentMoniker": "gestionTareas\\gestionTareas.csproj",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas\\gestionTareas.csproj",
+              "RelativeToolTip": "gestionTareas\\gestionTareas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T04:19:32.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "gestionTareas.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj",
+              "RelativeToolTip": "gestionTareas.Infrastructure\\gestionTareas.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T04:18:38.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gestionTareas.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\gestionTareas.Domain.csproj",
+              "RelativeDocumentMoniker": "gestionTareas.Domain\\gestionTareas.Domain.csproj",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\gestionTareas.Domain.csproj",
+              "RelativeToolTip": "gestionTareas.Domain\\gestionTareas.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T04:56:51.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "gestionTareas.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Application\\gestionTareas.Application.csproj",
+              "RelativeDocumentMoniker": "gestionTareas.Application\\gestionTareas.Application.csproj",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Application\\gestionTareas.Application.csproj",
+              "RelativeToolTip": "gestionTareas.Application\\gestionTareas.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T04:18:24.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "gestionTareas.http",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas\\gestionTareas.http",
+              "RelativeDocumentMoniker": "gestionTareas\\gestionTareas.http",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas\\gestionTareas.http",
+              "RelativeToolTip": "gestionTareas\\gestionTareas.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-16T03:09:47.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas\\Program.cs",
+              "RelativeDocumentMoniker": "gestionTareas\\Program.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas\\Program.cs",
+              "RelativeToolTip": "gestionTareas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:10:34.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EstadoTarea.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\EstadoTarea.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Domain\\Models\\EstadoTarea.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\EstadoTarea.cs",
+              "RelativeToolTip": "gestionTareas.Domain\\Models\\EstadoTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:30:42.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Domain\\Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\Proyecto.cs",
+              "RelativeToolTip": "gestionTareas.Domain\\Models\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:30:16.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Domain\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\Usuario.cs",
+              "RelativeToolTip": "gestionTareas.Domain\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:29:54.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PrioridadTarea.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\PrioridadTarea.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Domain\\Models\\PrioridadTarea.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\PrioridadTarea.cs",
+              "RelativeToolTip": "gestionTareas.Domain\\Models\\PrioridadTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:31:04.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Domain\\Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\Tarea.cs",
+              "RelativeToolTip": "gestionTareas.Domain\\Models\\Tarea.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:31:17.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ComentarioTarea.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\ComentarioTarea.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Domain\\Models\\ComentarioTarea.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\ComentarioTarea.cs",
+              "RelativeToolTip": "gestionTareas.Domain\\Models\\ComentarioTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:31:34.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ArchivoTarea.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\ArchivoTarea.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Domain\\Models\\ArchivoTarea.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Models\\ArchivoTarea.cs",
+              "RelativeToolTip": "gestionTareas.Domain\\Models\\ArchivoTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T16:31:54.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "gestionTareas.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\Escritorio\\Gestor de Tareas\\gestionTareas\\gestionTareas.Domain\\Class1.cs",
+              "RelativeToolTip": "gestionTareas.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:17:03.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

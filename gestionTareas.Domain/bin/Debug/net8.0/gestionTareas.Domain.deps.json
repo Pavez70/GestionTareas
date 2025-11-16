@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gestionTareas.Domain/1.0.0": {
+        "runtime": {
+          "gestionTareas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gestionTareas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

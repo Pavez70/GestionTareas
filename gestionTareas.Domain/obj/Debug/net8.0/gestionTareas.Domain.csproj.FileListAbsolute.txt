@@ -1,0 +1,11 @@
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\bin\Debug\net8.0\gestionTareas.Domain.deps.json
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\bin\Debug\net8.0\gestionTareas.Domain.dll
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\bin\Debug\net8.0\gestionTareas.Domain.pdb
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\obj\Debug\net8.0\gestionTareas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\obj\Debug\net8.0\gestionTareas.Domain.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\obj\Debug\net8.0\gestionTareas.Domain.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\obj\Debug\net8.0\gestionTareas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\obj\Debug\net8.0\gestionTareas.Domain.dll
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\obj\Debug\net8.0\refint\gestionTareas.Domain.dll
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\obj\Debug\net8.0\gestionTareas.Domain.pdb
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Domain\obj\Debug\net8.0\ref\gestionTareas.Domain.dll
