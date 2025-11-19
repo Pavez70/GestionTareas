@@ -1,7 +1,7 @@
-﻿
-
+﻿using gestionTareas.Application;
 using gestionTareas.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
+using gestionTareas.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,7 +13,9 @@ builder.Services.AddSwaggerGen();
 // ✅ REGISTRAR DBCONTEXT (esto es esencial)
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
+builder.Services.AddApplicationServices();
+builder.Services.AddInfrastructureServices(builder.Configuration);
+builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 

@@ -11,6 +11,7 @@ C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Infrastructure\obj\Debug\net8.0\gestionTareas.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Infrastructure\obj\Debug\net8.0\gestionTareas.Infrastructure.AssemblyInfo.cs
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Infrastructure\obj\Debug\net8.0\gestionTareas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Infrastructure\obj\Debug\net8.0\gestionTareas.Infrastructure.sourcelink.json
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Infrastructure\obj\Debug\net8.0\gestionT.E30623BF.Up2Date
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Infrastructure\obj\Debug\net8.0\gestionTareas.Infrastructure.dll
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas.Infrastructure\obj\Debug\net8.0\refint\gestionTareas.Infrastructure.dll

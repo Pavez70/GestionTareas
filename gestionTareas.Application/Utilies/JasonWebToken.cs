@@ -24,14 +24,15 @@ namespace gestionTareas.Application.Utilies
 
         public string Generate(string email, int userId, string nombreCompleto)
         {
-            var securityKey = new SymmetricSecurityKey(
-                Encoding.UTF8.GetBytes(_configuration["Jwt:Key"])
-            );
+            var key = _configuration["Jwt:Key"];
+            if (string.IsNullOrEmpty(key))
+                throw new Exception("JWT Key is missing in configuration");
 
+            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key));
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
 
-            var claims = new List<Claim>
-        {
+            var claims = new[]
+            {
             new Claim(JwtRegisteredClaimNames.Sub, userId.ToString()),
             new Claim(JwtRegisteredClaimNames.Email, email),
             new Claim(JwtRegisteredClaimNames.UniqueName, nombreCompleto),
@@ -42,7 +43,7 @@ namespace gestionTareas.Application.Utilies
                 issuer: _configuration["Jwt:Issuer"],
                 audience: _configuration["Jwt:Audience"],
                 claims: claims,
-                expires: DateTime.Now.AddHours(4),
+                expires: DateTime.UtcNow.AddHours(4),
                 signingCredentials: credentials
             );
 
@@ -52,11 +53,11 @@ namespace gestionTareas.Application.Utilies
         public bool Validate(string token)
         {
             var tokenHandler = new JwtSecurityTokenHandler();
-            var validationParameters = GetValidationParameters();
+            var parameters = GetValidationParameters();
 
             try
             {
-                tokenHandler.ValidateToken(token, validationParameters, out _);
+                tokenHandler.ValidateToken(token, parameters, out _);
                 return true;
             }
             catch

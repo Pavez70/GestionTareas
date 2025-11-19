@@ -137,6 +137,7 @@ C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\gestionTareas.csproj.CoreCompileInputs.cache
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\gestionTareas.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\gestionTareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\gestionTareas.sourcelink.json
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -145,10 +146,10 @@ C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\gestionT.7686EC94.Up2Date
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\gestionTareas.dll
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\refint\gestionTareas.dll
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\gestionTareas.pdb
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\gestionTareas.genruntimeconfig.cache
 C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\ref\gestionTareas.dll
+C:\Users\pablo\OneDrive\Escritorio\Gestor de Tareas\gestionTareas\gestionTareas\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

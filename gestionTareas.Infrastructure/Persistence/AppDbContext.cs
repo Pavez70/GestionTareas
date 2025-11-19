@@ -16,7 +16,7 @@ namespace gestionTareas.Infrastructure.Persistence
         {
         }
 
-        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Usuario> Usuario { get; set; }
         public DbSet<Proyecto> Proyectos { get; set; }
         public DbSet<Tarea> Tareas { get; set; }
         public DbSet<EstadoTarea> EstadosTarea { get; set; }
